@@ -56,6 +56,11 @@ apps:
 
     isRelatedPostsEnabled: true
     relatedPostsCount: 4
+  
+analytics:
+  vendors:
+    goatcounter:
+      id: a-wie-awareness
 
 ui:
   theme: 'system' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"
