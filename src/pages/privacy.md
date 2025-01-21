@@ -9,10 +9,10 @@ Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Nachfolgend informie
 
 ## Verantwortlicher
 
-**Verantwortlich für die Datenverarbeitung:**
-Nici Stoll 
+**Verantwortlich für die Datenverarbeitung:**  
+Nici Stoll  
 Adlerstraße 32, 76133 Karlsruhe  
-A-wie-Awareness@proton.me 
+A-wie-Awareness@proton.me
 
 Bei Fragen zur Verarbeitung Ihrer personenbezogenen Daten können Sie uns unter der oben angegebenen E-Mail-Adresse kontaktieren.
 

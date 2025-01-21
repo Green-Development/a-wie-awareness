@@ -7,12 +7,12 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 Verantwortlich für den Inhalt:  
 
-Nici Stoll 
-Adlerstraße 32  
+Nici Stoll  
+Adlerstraße 32   
 76133 Karlsruhe   
 Deutschland 
 
-E-Mail: A-wie-Awareness@proton.me 
+E-Mail: A-wie-Awareness@proton.me   
 
 ## Haftungsausschluss
 
