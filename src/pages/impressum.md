@@ -7,12 +7,12 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 Verantwortlich für den Inhalt:  
 
-Dorian Werner  
-Theodor-Rehbock-Str. 3   
-76131 Karlsruhe   
+Nici Stoll 
+Adlerstraße 32  
+76133 Karlsruhe   
 Deutschland 
 
-E-Mail: dorian.werner+kapoly@posteo.eu  
+E-Mail: A-wie-Awareness@proton.me 
 
 ## Haftungsausschluss
 

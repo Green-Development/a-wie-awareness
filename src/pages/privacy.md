@@ -9,10 +9,10 @@ Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Nachfolgend informie
 
 ## Verantwortlicher
 
-**Verantwortlich für die Datenverarbeitung:**  
-Dorian Werner  
-Theodor-Rehbock-Str. 3, 76131 Karlsruhe  
-dorian.werner+kapoly@posteo.eu  
+**Verantwortlich für die Datenverarbeitung:**
+Nici Stoll 
+Adlerstraße 32, 76133 Karlsruhe  
+A-wie-Awareness@proton.me 
 
 Bei Fragen zur Verarbeitung Ihrer personenbezogenen Daten können Sie uns unter der oben angegebenen E-Mail-Adresse kontaktieren.
 
