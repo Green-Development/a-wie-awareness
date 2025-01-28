@@ -1,7 +1,4 @@
 # A wie Awareness Website
-
----
-
 Deployed to https://a-wie-awareness.de
 
 <br><br><br>
