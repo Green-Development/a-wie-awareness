@@ -1,14 +1,26 @@
-import { getPermalink } from './utils/permalinks';
+import {getBlogPermalink, getPermalink} from './utils/permalinks';
 
 export const headerData = {
   links: [
     {
       text: 'Startseite',
       href: getPermalink('/'),
+    },    
+    {
+      text: 'Über mich',
+      href: getPermalink('/ueber-mich'),
     },
     {
       text: 'Kontakt',
       href: getPermalink('/kontakt'),
+    },    
+    {
+      text: 'Glossar',
+      href: getPermalink('/glossar'),
+    },
+    {
+      text: 'Blog',
+      href: getBlogPermalink(),
     },
   ],
 };
