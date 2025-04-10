@@ -1,5 +1,5 @@
 ---
-title: ' Datenschutzerklärung'
+title: 'Datenschutzerklärung'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -28,34 +28,34 @@ Weitere Informationen finden Sie in der [GitHub Privacy Policy](https://docs.git
 
 ---
 
-## Erhebung und Verarbeitung personenbezogener Daten
+## Webanalyse mit Plausible
 
-### 1. **Seitenaufrufe (GoatCounter)**
+Wir verwenden die datenschutzfreundliche Webanalyse-Software **Plausible Analytics**, die wir auf unserem eigenen Server in der EU selbst hosten.  
+Dabei werden keine Cookies gesetzt und keine personenbezogenen Daten wie IP-Adressen gespeichert. Plausible verarbeitet ausschließlich aggregierte Daten zur Nutzung unserer Website, z. B. welche Seiten wie häufig aufgerufen wurden.
 
-Wir nutzen den Open-Source-Dienst **GoatCounter**, um anonyme Statistiken über die Nutzung der Website zu erstellen.  
-- **Erhobene Daten:** GoatCounter speichert keine personenbezogenen Daten wie IP-Adressen. Es werden ausschließlich anonyme Informationen über die aufgerufenen Seiten, Verweildauer und verwendete Geräte erfasst.  
-- **Speicherdauer:** Die Daten werden nicht dauerhaft gespeichert.  
-- **Empfänger:** GoatCounter verarbeitet die Daten auf Servern innerhalb der Europäischen Union.  
+- **Verarbeitete Daten:** Keine personenbezogenen Daten. Die Analyse erfolgt aggregiert und anonymisiert.  
+- **Zweck:** Verbesserung unseres Angebots durch datenschutzfreundliche Analyse der Seitenaufrufe.  
+- **Hosting:** Die Software wird ausschließlich auf unserem eigenen Server betrieben. Es erfolgt keine Datenübertragung an Dritte.
 
-**Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse, Analyse der Website-Nutzung).  
-Weitere Informationen finden Sie in den [GoatCounter Datenschutzrichtlinien](https://www.goatcounter.com/privacy).
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Optimierung unseres Angebots).
 
 ---
 
-### 2. **Kontaktformular (FabForm)**
+## Erhebung und Verarbeitung personenbezogener Daten
 
-Unser Kontaktformular wird über **FabForm** bereitgestellt. Wenn Sie das Formular nutzen, werden die von Ihnen eingegebenen Daten (z. B. Name, E-Mail-Adresse, Nachricht) an uns übermittelt.  
+### 1. **Kontaktformular (FabForm)**
+
+Unser Kontaktformular wird über **FabForm** bereitgestellt. Wenn Sie das Formular nutzen, werden die von Ihnen eingegebenen Daten (z. B. Name, E-Mail-Adresse, Nachricht) an uns übermittelt.  
 - **Erhobene Daten:** Name, E-Mail-Adresse und der Inhalt Ihrer Nachricht mit Betreff.  
 - **Zweck:** Die Daten werden ausschließlich zur Bearbeitung Ihrer Anfrage verwendet.  
 - **Speicherdauer:** Ihre Daten werden gelöscht, sobald die Bearbeitung abgeschlossen ist, sofern keine gesetzlichen Aufbewahrungsfristen bestehen.  
-- **Empfänger:** FabForm verarbeitet die Daten auf Servern innerhalb der Europäischen Union.  
+- **Empfänger:** FabForm verarbeitet die Daten nach ihrer [Datenschutzrichtlinie](https://fabform.io/privacy) und leitet sie per E-Mail an uns weiter.  
 
-**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung bzw. vorvertragliche Maßnahmen).  
-Weitere Informationen finden Sie in den [FabForm Datenschutzrichtlinien](https://fabform.io/privacy).
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung bzw. vorvertragliche Maßnahmen).
 
 ---
 
-### 3. **E-Mail-Kommunikation**
+### 2. **E-Mail-Kommunikation**
 
 Wenn Sie uns per E-Mail kontaktieren, speichern wir Ihre E-Mail-Adresse sowie die von Ihnen übermittelten Informationen.  
 - **Erhobene Daten:** E-Mail-Adresse, Name und der Inhalt Ihrer Nachricht.  
@@ -69,8 +69,8 @@ Wenn Sie uns per E-Mail kontaktieren, speichern wir Ihre E-Mail-Adresse sowie di
 ## Empfänger von Daten
 
 - **GitHub (USA):** Zum Hosting der Website werden Daten wie IP-Adressen und technische Verbindungsinformationen verarbeitet. GitHub hat sich zur Einhaltung der DSGVO verpflichtet und Standardvertragsklauseln implementiert.  
-- **GoatCounter (EU):** Zum Erfassen anonymer Nutzungsstatistiken.  
 - **FabForm (EU):** Zur Bereitstellung des Kontaktformulars und Verarbeitung der eingegebenen Daten.  
+- **Plausible (EU - Deutschland, selbst gehostet):** Zur Durchführung datenschutzfreundlicher Webanalysen – es werden keine personenbezogenen Daten erhoben.
 
 ---
 
@@ -80,9 +80,9 @@ Sie haben jederzeit das Recht:
 - **Auskunft** über die von uns verarbeiteten Daten zu erhalten (Art. 15 DSGVO),
 - die **Berichtigung** unrichtiger Daten zu verlangen (Art. 16 DSGVO),
 - die **Löschung** Ihrer Daten zu fordern (Art. 17 DSGVO),
-- die Einschränkung der Verarbeitung zu verlangen (Art. 18 DSGVO),
-- der Verarbeitung zu widersprechen (Art. 21 DSGVO),
-- Ihre Daten in einem maschinenlesbaren Format zu erhalten (Art. 20 DSGVO).
+- die **Einschränkung der Verarbeitung** zu verlangen (Art. 18 DSGVO),
+- der **Verarbeitung zu widersprechen** (Art. 21 DSGVO),
+- Ihre Daten in einem **maschinenlesbaren Format** zu erhalten (Art. 20 DSGVO).
 
 Zur Ausübung Ihrer Rechte wenden Sie sich bitte an die oben genannte Kontaktadresse.
 
@@ -96,9 +96,9 @@ Wir setzen technische und organisatorische Maßnahmen ein, um Ihre Daten vor unb
 
 ## Speicherdauer
 
-- **Seitenaufrufe (GoatCounter):** Daten werden anonym erfasst und nicht dauerhaft gespeichert.  
 - **Kontaktformular (FabForm):** Daten werden gelöscht, sobald die Anfrage abgeschlossen ist, sofern keine gesetzlichen Aufbewahrungspflichten bestehen.  
 - **E-Mail-Kommunikation:** Daten werden gelöscht, sobald sie nicht mehr erforderlich sind, sofern keine gesetzlichen Aufbewahrungspflichten bestehen.  
+- **Plausible:** Es werden keine personenbezogenen Daten gespeichert.
 
 ---
 
@@ -108,4 +108,4 @@ Wir behalten uns das Recht vor, diese Datenschutzerklärung bei Bedarf anzupasse
 
 ---
 
-*Stand: 01.01.2025*
+*Stand: 10.04.2025*
