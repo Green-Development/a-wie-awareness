@@ -59,8 +59,9 @@ apps:
   
 analytics:
   vendors:
-    goatcounter:
-      id: a-wie-awareness
+    plausible:
+      api: "https://analytics.project-insanity.org/api/event"
+      domain: 'a-wie-awareness.de'
 
 ui:
   theme: 'system' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"
